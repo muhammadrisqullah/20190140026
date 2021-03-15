@@ -1,0 +1,16 @@
+.text3{
+    
+    font-size: 300px;
+    color: chocolate;
+
+}
+.produk{
+    border: 1px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: rgb(3, 77, 87);
+    font-size: medium;
+    color: black;
+}
