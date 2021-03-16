@@ -19,7 +19,7 @@
     color: black;
 
 }
-.bagian-bawah{
+.bagian-tengah{
     display: flex;
     justify-content: center;
 }
@@ -27,6 +27,9 @@ table, th,td{
     border: 1px solid black;
 }
 
+.bagian-bawah{
+    border: 1px solid black;
+}
 
 @media(min-width: 992px) {
     .Bagian-atas{
