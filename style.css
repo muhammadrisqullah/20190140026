@@ -14,3 +14,37 @@
     font-size: medium;
     color: black;
 }
+.Bagian-atas{
+    text-align: center;
+    color: black;
+
+}
+.bagian-bawah{
+    display: flex;
+    justify-content: center;
+}
+table, th,td{
+    border: 1px solid black;
+}
+
+
+@media(min-width: 992px) {
+    .Bagian-atas{
+        color: red;
+    }
+    .bagian-bawah{
+        display: flex;
+        justify-content: start;
+    }
+  }
+/*tablet */
+@media(min-width: 768px) and (max-width: 992px){
+    .Bagian-atas{
+        text-align: center;
+        color: yellow;
+    }
+    .bagian-bawah{
+        display: flex;
+        justify-content: center;
+    }
+}
