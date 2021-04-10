@@ -1,1 +1,1 @@
-<?php include_once('pratikum_bootstrap.html'); ?>
+<?php include_once('pratikum_jquery.html'); ?>
